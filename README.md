@@ -73,14 +73,17 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aionos-Stom&theme=default" />
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aionos-Stom&theme=default" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aionos-Stom&theme=default" alt="Perfil" />
 </p>
-<p align="center">
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aionos-Stom&theme=default" />
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aionos-Stom&theme=default" />
-</p>
-<p align="center">
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aionos-Stom&theme=default&utcOffset=-4" />
-</p>
+
+<table align="center">
+  <tr>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aionos-Stom&theme=default" alt="Stats" /></td>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aionos-Stom&theme=default" alt="Repos por lenguaje" /></td>
+  </tr>
+  <tr>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aionos-Stom&theme=default" alt="Lenguaje mas usado" /></td>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aionos-Stom&theme=default&utcOffset=-4" alt="Horario mas productivo" /></td>
+  </tr>
+</table>
 
