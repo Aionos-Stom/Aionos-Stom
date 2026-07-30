@@ -1,0 +1,79 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#070510"/>
+<stop offset="50%" stop-color="#150a24"/>
+<stop offset="100%" stop-color="#050308"/>
+</linearGradient>
+<radialGradient id="glow" cx="42%" cy="46%" r="55%">
+<stop offset="0%" stop-color="#7c3aed" stop-opacity="0.30"/>
+<stop offset="55%" stop-color="#7c3aed" stop-opacity="0.07"/>
+<stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glow2" cx="82%" cy="48%" r="42%">
+<stop offset="0%" stop-color="#a855f7" stop-opacity="0.22"/>
+<stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="axel" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffffff"/>
+<stop offset="100%" stop-color="#e7dcf7"/>
+</linearGradient>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+<feGaussianBlur stdDeviation="6"/>
+</filter>
+</defs>
+
+<rect x="0" y="0" width="1280" height="640" fill="url(#bg)"/>
+
+<g stroke="#5b2d8f" stroke-width="0.6" opacity="0.16">
+<line x1="40" y1="0" x2="40" y2="640"/><line x1="120" y1="0" x2="120" y2="640"/><line x1="200" y1="0" x2="200" y2="640"/><line x1="280" y1="0" x2="280" y2="640"/><line x1="360" y1="0" x2="360" y2="640"/><line x1="440" y1="0" x2="440" y2="640"/><line x1="520" y1="0" x2="520" y2="640"/><line x1="600" y1="0" x2="600" y2="640"/><line x1="680" y1="0" x2="680" y2="640"/><line x1="760" y1="0" x2="760" y2="640"/><line x1="840" y1="0" x2="840" y2="640"/><line x1="920" y1="0" x2="920" y2="640"/><line x1="1000" y1="0" x2="1000" y2="640"/><line x1="1080" y1="0" x2="1080" y2="640"/><line x1="1160" y1="0" x2="1160" y2="640"/><line x1="1240" y1="0" x2="1240" y2="640"/>
+<line x1="0" y1="40" x2="1280" y2="40"/><line x1="0" y1="120" x2="1280" y2="120"/><line x1="0" y1="200" x2="1280" y2="200"/><line x1="0" y1="280" x2="1280" y2="280"/><line x1="0" y1="360" x2="1280" y2="360"/><line x1="0" y1="440" x2="1280" y2="440"/><line x1="0" y1="520" x2="1280" y2="520"/><line x1="0" y1="600" x2="1280" y2="600"/>
+</g>
+
+<rect x="0" y="0" width="1280" height="640" fill="url(#glow)"/>
+<rect x="0" y="0" width="1280" height="640" fill="url(#glow2)"/>
+
+<text x="640" y="470" font-family="'DejaVu Sans Mono',monospace" font-size="380" font-weight="bold" fill="#7c3aed" opacity="0.05" text-anchor="middle">{ }</text>
+
+<g font-family="'DejaVu Sans Mono',monospace" fill="#8b6bc0" opacity="0.55">
+<text x="96" y="92" font-size="22">~/axel — dev</text>
+<text x="96" y="120" font-size="16" fill="#5b3f82">const developer = "AXEL"</text>
+</g>
+
+<text x="92" y="352" font-family="'DejaVu Sans',sans-serif" font-size="164" font-weight="bold" fill="#7c3aed" opacity="0.35" filter="url(#soft)">AXEL</text>
+<text x="90" y="348" font-family="'DejaVu Sans',sans-serif" font-size="164" font-weight="bold" fill="url(#axel)" letter-spacing="6">AXEL</text>
+
+<g>
+<text x="94" y="430" font-family="'DejaVu Sans Mono',monospace" font-size="56" font-weight="bold" fill="#c084fc" letter-spacing="2">{</text>
+<text x="132" y="430" font-family="'DejaVu Sans Mono',monospace" font-size="52" font-weight="bold" fill="#a855f7" letter-spacing="6">DEVCB</text>
+<text x="348" y="430" font-family="'DejaVu Sans Mono',monospace" font-size="56" font-weight="bold" fill="#c084fc" letter-spacing="2">}</text>
+</g>
+
+<text x="96" y="486" font-family="'DejaVu Sans',sans-serif" font-size="27" fill="#b9a6d6" letter-spacing="1">programación · desarrollo de software</text>
+
+<line x1="98" y1="524" x2="250" y2="524" stroke="#7c3aed" stroke-width="2"/>
+<circle cx="266" cy="524" r="3.5" fill="#a855f7"/>
+<text x="284" y="531" font-family="'DejaVu Sans',sans-serif" font-size="18" fill="#7c5aa6" letter-spacing="4">SOFTWARE  DEVELOPER</text>
+
+<g transform="translate(1058,306)">
+<circle r="182" fill="none" stroke="#8b5cf6" stroke-width="1.6" opacity="0.55"/>
+<circle r="150" fill="none" stroke="#a855f7" stroke-width="1" stroke-dasharray="2 8" opacity="0.5"/>
+<circle r="128" fill="none" stroke="#8b5cf6" stroke-width="0.8" opacity="0.3"/>
+<g stroke="#a855f7" stroke-width="2" opacity="0.7">
+<line x1="0" y1="-182" x2="0" y2="-168"/><line x1="0" y1="182" x2="0" y2="168"/><line x1="-182" y1="0" x2="-168" y2="0"/><line x1="182" y1="0" x2="168" y2="0"/>
+<line x1="129" y1="-129" x2="119" y2="-119"/><line x1="-129" y1="-129" x2="-119" y2="-119"/><line x1="129" y1="129" x2="119" y2="119"/><line x1="-129" y1="129" x2="-119" y2="119"/>
+</g>
+<text x="0" y="50" font-family="'DejaVu Sans Mono',monospace" font-size="150" font-weight="bold" fill="#ffffff" text-anchor="middle">{ }</text>
+<text x="0" y="56" font-family="'DejaVu Sans Mono',monospace" font-size="150" font-weight="bold" fill="#a855f7" text-anchor="middle" opacity="0.35" filter="url(#soft)">{ }</text>
+<text x="0" y="112" font-family="'DejaVu Sans',sans-serif" font-size="20" font-weight="bold" fill="#c084fc" text-anchor="middle" letter-spacing="6">DEVCB</text>
+</g>
+
+<g stroke="#8b5cf6" stroke-width="1.4" fill="none" opacity="0.5">
+<path d="M876 300 h-70 M806 300 v-40 h-30"/>
+<path d="M884 360 h-120 M764 360 v34 h-24"/>
+</g>
+<circle cx="776" cy="260" r="4" fill="#a855f7" opacity="0.8"/>
+<circle cx="740" cy="394" r="4" fill="#c084fc" opacity="0.8"/>
+
+<text x="1184" y="612" font-family="'DejaVu Sans Mono',monospace" font-size="16" fill="#5b3f82" text-anchor="end" opacity="0.7">&lt;/&gt; v1.0</text>
+</svg>
