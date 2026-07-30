@@ -41,7 +41,7 @@
 
 ![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia_Artificial-8A2BE2?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
-[![Big_Data](https://shields.io)](https://github.com)
+![Big Data](https://img.shields.io/badge/Big_Data-8A2BE2?style=for-the-badge)
 
 ### 📋 Metodologías & Gestión
 
