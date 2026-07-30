@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source srcset="assets/axel-devcb-banner.svg" type="image/svg+xml">
+  <img src="assets/axel-devcb-banner.png" alt="Axel — DEVCB" width="100%">
+</picture>
+
 # ¡Hola! Soy Axel 👋
 
 **Tecnología en Software**  &nbsp;·&nbsp; **Ingeniería en Tecnologías Computacionales e Informática**
