@@ -41,14 +41,21 @@
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-### 🧩 Otras habilidades
-
-![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia_Artificial-8A2BE2?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
-![Big Data](https://img.shields.io/badge/Big_Data-8A2BE2?style=for-the-badge)
-![Scrum Master](https://img.shields.io/badge/Scrum_Master-8A2BE2?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-8A2BE2?style=for-the-badge)
+
+### 📊 Data
+
+![Big Data](https://img.shields.io/badge/Big_Data-8A2BE2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
+
+### 🤖 Inteligencia Artificial
+
+![IA](https://img.shields.io/badge/IA-8A2BE2?style=for-the-badge)
+![Claude Certificate](https://img.shields.io/badge/Claude_Certificate-8A2BE2?style=for-the-badge)
+
+### 🔬 Metodología de Investigación
+
+![Scrum Master](https://img.shields.io/badge/Scrum_Master-8A2BE2?style=for-the-badge)
 
 ### 🔒 Seguridad
 
@@ -79,11 +86,11 @@
 <table align="center">
   <tr>
     <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aionos-Stom&theme=default" alt="Stats" /></td>
-    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aionos-Stom&theme=default" alt="Repos por lenguaje" /></td>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aionos-Stom&theme=default&utcOffset=-4" alt="Horario mas productivo" /></td>
   </tr>
   <tr>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aionos-Stom&theme=default" alt="Repos por lenguaje" /></td>
     <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aionos-Stom&theme=default" alt="Lenguaje mas usado" /></td>
-    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aionos-Stom&theme=default&utcOffset=-4" alt="Horario mas productivo" /></td>
   </tr>
 </table>
 
