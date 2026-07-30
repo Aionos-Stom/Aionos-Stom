@@ -1,0 +1,49 @@
+<div align="center">
+
+# ¡Hola! Soy Axel 👋
+
+**Ingeniería en Software** — ITLA &nbsp;·&nbsp; **Ingeniería en Tecnologías Computacionales e Informática** — UNIBE
+
+📍 República Dominicana
+
+</div>
+
+---
+
+### 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción |
+|---|---|
+| [**guido-sistema**](https://github.com/Aionos-Stom/guido-sistema) | Sistema de Gestión Territorial · [demo en vivo](https://aionos-stom.github.io/guido-sistema/) |
+| [**SISTEMA-M**](https://github.com/Aionos-Stom/SISTEMA-M) | Sistema M · [demo en vivo](https://aionos-stom.github.io/SISTEMA-M/) |
+| [**SOPORTE-ADVANCED-NEW-VORTICEX**](https://github.com/Aionos-Stom/SOPORTE-ADVANCED-NEW-VORTICEX) | Sistema de gestión de tickets y soporte técnico para estudiantes (Next.js + TypeScript) |
+| [**WEBSITE-VORTICEX**](https://github.com/Aionos-Stom/WEBSITE-VORTICEX) | Portfolio personal — Next.js + Supabase |
+| [**BACK-UP-LA-NUBE-OFICIAL**](https://github.com/Aionos-Stom/BACK-UP-LA-NUBE-OFICIAL) | Backup en la nube (C#) |
+
+**Proyectos académicos:** [ETL-ELECT-1](https://github.com/Aionos-Stom/ETL-ELECT-1) · [ANALISIS-DE-VENTAS](https://github.com/Aionos-Stom/ANALISIS-DE-VENTAS) · [Cargar-de-facts-del-almacén-de-datos](https://github.com/Aionos-Stom/Cargar-de-facts-del-almac-n-de-datos) · [PYTHON-TAREA-DE-ESTRUCTURA-DE-DATOS-Unidimensionales](https://github.com/Aionos-Stom/PYTHON-TAREA-DE-ESTRUCTURA-DE-DATOS-Unidimensionales)
+
+---
+
+### 📊 Estadísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aionos-Stom&show_icons=true&count_private=true&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aionos-Stom&layout=compact&hide_border=true&theme=default" />
+</p>
+
