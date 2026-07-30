@@ -37,18 +37,18 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🤖 IA & Datos
+### 📋 Metodologías & Gestión
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+### 🧩 Otras habilidades
 
 ![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia_Artificial-8A2BE2?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge)
 ![Big Data](https://img.shields.io/badge/Big_Data-8A2BE2?style=for-the-badge)
-
-### 📋 Metodologías & Gestión
-
-![Scrum Master](https://img.shields.io/badge/Scrum_Master-0A9396?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A9396?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Scrum Master](https://img.shields.io/badge/Scrum_Master-8A2BE2?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-8A2BE2?style=for-the-badge)
 
 ### 🔒 Seguridad
 
