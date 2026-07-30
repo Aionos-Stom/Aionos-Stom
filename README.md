@@ -6,6 +6,9 @@
 
 📍 República Dominicana
 
+[![Instagram](https://img.shields.io/badge/Instagram-%40codedevskillshub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codedevskillshub)
+[![Telegram](https://img.shields.io/badge/Telegram-%40AxelTempest-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AxelTempest)
+
 </div>
 
 ---
