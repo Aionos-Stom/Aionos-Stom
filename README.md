@@ -72,4 +72,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aionos-Stom&show_icons=true&count_private=true&hide_border=true&theme=default" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aionos-Stom&layout=compact&hide_border=true&theme=default" />
 </p>
+<p align="center">
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aionos-Stom&theme=default" />
+</p>
 
