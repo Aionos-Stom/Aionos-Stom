@@ -67,8 +67,8 @@
 
 | Proyecto | Descripción |
 |---|---|
-| [**guido-sistema**](https://github.com/Aionos-Stom/guido-sistema) | Sistema de Gestión Territorial · [demo en vivo](https://aionos-stom.github.io/guido-sistema/) |
-| [**SISTEMA-M**](https://github.com/Aionos-Stom/SISTEMA-M) | Sistema M · [demo en vivo](https://aionos-stom.github.io/SISTEMA-M/) |
+| [**POLITIC-GUIDO**](https://github.com/Aionos-Stom/POLITIC-GUIDO) | Sistema de Gestión Territorial · [demo en vivo](https://aionos-stom.github.io/POLITIC-GUIDO/) |
+| [**POLITIC-MOREILA**](https://github.com/Aionos-Stom/POLITIC-MOREILA) | Sistema M · [demo en vivo](https://aionos-stom.github.io/POLITIC-MOREILA/) |
 | [**SOPORTE-ADVANCED-NEW-VORTICEX**](https://github.com/Aionos-Stom/SOPORTE-ADVANCED-NEW-VORTICEX) | Sistema de gestión de tickets y soporte técnico para estudiantes (Next.js + TypeScript) |
 | [**WEBSITE-VORTICEX**](https://github.com/Aionos-Stom/WEBSITE-VORTICEX) | Portfolio personal — Next.js + Supabase |
 | [**BACK-UP-LA-NUBE-OFICIAL**](https://github.com/Aionos-Stom/BACK-UP-LA-NUBE-OFICIAL) | Backup en la nube (C#) |
