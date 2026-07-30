@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Axel 👋
 
-**Ingeniería en Software** — ITLA &nbsp;·&nbsp; **Ingeniería en Tecnologías Computacionales e Informática** — UNIBE
+**Ingeniería en Software**  &nbsp;·&nbsp; **Ingeniería en Tecnologías Computacionales e Informática**
 
 📍 República Dominicana
 
