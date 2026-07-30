@@ -1,10 +1,5 @@
 <div align="center">
 
-<picture>
-  <source srcset="assets/axel-devcb-banner.svg" type="image/svg+xml">
-  <img src="assets/axel-devcb-banner.png" alt="Axel — DEVCB" width="100%">
-</picture>
-
 # ¡Hola! Soy Axel 👋
 
 **Tecnología en Software**  &nbsp;·&nbsp; **Ingeniería en Tecnologías Computacionales e Informática**
@@ -13,6 +8,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40codedevskillshub-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codedevskillshub)
 [![Telegram](https://img.shields.io/badge/Telegram-%40AxelTempest-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AxelTempest)
+
+<picture>
+  <source srcset="assets/axel-devcb-banner.svg" type="image/svg+xml">
+  <img src="assets/axel-devcb-banner.png" alt="Axel — DEVCB" width="100%">
+</picture>
 
 </div>
 
