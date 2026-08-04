@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Axel 👋
 
-**Tecnología en Software**  &nbsp;·&nbsp; **Ingeniería en Tecnologías Computacionales e Informática**
+**Tecnología en Software**  &nbsp;·&nbsp; **Ingeniería en Ciberseguridad** **Ingeniería en Tecnologías Computacionales e Informática**
 
 📍 República Dominicana
 
