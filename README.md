@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Johan👋
+# ¡Hola! Soy Axel👋
 
 **Tecnología en Software**  &nbsp;·&nbsp; **Ingeniería en Ciberseguridad** >< **Ingeniería en Tecnologías Computacionales e Informática**
 
